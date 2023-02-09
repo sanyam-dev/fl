@@ -1,0 +1,4 @@
+[console_scripts]
+flower-client=flwr.client:run_client
+flower-server=flwr.server:run_server
+
